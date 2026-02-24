@@ -260,7 +260,7 @@ I'm always interested in discussing **backend architecture**, **system design**,
 
 📧 **Email:** [abrahymtrkyhsn0@gmail.com](mailto:abrahymtrkyhsn0@gmail.com)  
 💼 **LinkedIn:** [Ghaith Hasan](https://www.linkedin.com/in/ghaith-hasan-82b227381)  
-🌐 **Location:** Damascus, Syria  
+
 🎓 **Status:** Final year Software Engineering student - Available for opportunities
 
 ---
